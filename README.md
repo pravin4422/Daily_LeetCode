@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0541-reverse-string-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -38,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0541-reverse-string-ii) |
 | [1944-truncate-sentence](https://github.com/pravin4422/Daily_LeetCode/tree/master/1944-truncate-sentence) |
 <!---LeetCode Topics End-->
