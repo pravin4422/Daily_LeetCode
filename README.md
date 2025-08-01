@@ -63,4 +63,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pravin4422/Daily_LeetCode/tree/master/0169-majority-element) |
+
+## 🗓️ Solved Problems Timeline (Ordered by Time)
+| |
+| ------- |
+| #  | Problem Name                 | Folder Name                    | Solved On        |
+|----|------------------------------|--------------------------------|------------------|
+| 1  | Maximum Subarray             | 0053-maximum-subarray          | 2025-08-01 10:30 |
+| 2  | Maximum Product Subarray     | 0152-maximum-product-subarray  | 2025-08-01 11:10 |
+| 3  | Majority Element             | 0169-majority-element          | 2025-08-01 11:30 |
+| 4  | Reverse Words in a String    | 0151-reverse-words-in-a-string | 2025-07-30 17:45 |
+
+Added solved problems timeline
+
 <!---LeetCode Topics End-->
