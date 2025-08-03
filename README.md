@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/pravin4422/Daily_LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/pravin4422/Daily_LeetCode/tree/master/0169-majority-element) |
+| [0713-subarray-product-less-than-k](https://github.com/pravin4422/Daily_LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1944-truncate-sentence](https://github.com/pravin4422/Daily_LeetCode/tree/master/1944-truncate-sentence) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pravin4422/Daily_LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0713-subarray-product-less-than-k](https://github.com/pravin4422/Daily_LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Matrix
 |  |
 | ------- |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/pravin4422/Daily_LeetCode/tree/master/0231-power-of-two) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/pravin4422/Daily_LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/pravin4422/Daily_LeetCode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
