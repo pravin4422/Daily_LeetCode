@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pravin4422/Daily_LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/pravin4422/Daily_LeetCode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/pravin4422/Daily_LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pravin4422/Daily_LeetCode/tree/master/0231-power-of-two) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pravin4422/Daily_LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/pravin4422/Daily_LeetCode/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
