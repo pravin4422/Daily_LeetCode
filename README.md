@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pravin4422/Daily_LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/pravin4422/Daily_LeetCode/tree/master/0412-fizz-buzz) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pravin4422/Daily_LeetCode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/pravin4422/Daily_LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pravin4422/Daily_LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pravin4422/Daily_LeetCode/tree/master/0258-add-digits) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pravin4422/Daily_LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/pravin4422/Daily_LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pravin4422/Daily_LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pravin4422/Daily_LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/pravin4422/Daily_LeetCode/tree/master/0412-fizz-buzz) |
 ## Counting Sort
