@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/pravin4422/Daily_LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pravin4422/Daily_LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pravin4422/Daily_LeetCode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/pravin4422/Daily_LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/pravin4422/Daily_LeetCode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/pravin4422/Daily_LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/pravin4422/Daily_LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/pravin4422/Daily_LeetCode/tree/master/0326-power-of-three) |
 ## Sliding Window
 |  |
 | ------- |
