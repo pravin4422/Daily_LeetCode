@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pravin4422/Daily_LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pravin4422/Daily_LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/pravin4422/Daily_LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/pravin4422/Daily_LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/pravin4422/Daily_LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/pravin4422/Daily_LeetCode/tree/master/0507-perfect-number) |
 ## Bit Manipulation
@@ -94,12 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/pravin4422/Daily_LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/pravin4422/Daily_LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/pravin4422/Daily_LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pravin4422/Daily_LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/pravin4422/Daily_LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pravin4422/Daily_LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/pravin4422/Daily_LeetCode/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
