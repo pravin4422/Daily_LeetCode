@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1217-relative-sort-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pravin4422/Daily_LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/pravin4422/Daily_LeetCode/tree/master/1944-truncate-sentence) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pravin4422/Daily_LeetCode/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1217-relative-sort-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/pravin4422/Daily_LeetCode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0541-reverse-string-ii) |
 | [1944-truncate-sentence](https://github.com/pravin4422/Daily_LeetCode/tree/master/1944-truncate-sentence) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pravin4422/Daily_LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pravin4422/Daily_LeetCode/tree/master/0169-majority-element) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/pravin4422/Daily_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
