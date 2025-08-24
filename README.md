@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pravin4422/Daily_LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/pravin4422/Daily_LeetCode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/pravin4422/Daily_LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/pravin4422/Daily_LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/pravin4422/Daily_LeetCode/tree/master/0204-count-primes) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/pravin4422/Daily_LeetCode/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/pravin4422/Daily_LeetCode/tree/master/0605-can-place-flowers) |
 ## Queue
 |  |
