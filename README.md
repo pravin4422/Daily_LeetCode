@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pravin4422/Daily_LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/pravin4422/Daily_LeetCode/tree/master/1944-truncate-sentence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pravin4422/Daily_LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pravin4422/Daily_LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pravin4422/Daily_LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/pravin4422/Daily_LeetCode/tree/master/0412-fizz-buzz) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Counting Sort
 |  |
 | ------- |
