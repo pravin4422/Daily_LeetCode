@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0541-reverse-string-ii) |
 | [1944-truncate-sentence](https://github.com/pravin4422/Daily_LeetCode/tree/master/1944-truncate-sentence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2154-minimum-moves-to-convert-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/pravin4422/Daily_LeetCode/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/pravin4422/Daily_LeetCode/tree/master/0605-can-place-flowers) |
+| [2154-minimum-moves-to-convert-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 ## Queue
 |  |
 | ------- |
