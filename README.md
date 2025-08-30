@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/pravin4422/Daily_LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/pravin4422/Daily_LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/pravin4422/Daily_LeetCode/tree/master/0507-perfect-number) |
+| [1289-day-of-the-week](https://github.com/pravin4422/Daily_LeetCode/tree/master/1289-day-of-the-week) |
 ## Bit Manipulation
 |  |
 | ------- |
