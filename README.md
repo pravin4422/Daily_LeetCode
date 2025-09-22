@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/pravin4422/Daily_LeetCode/tree/master/1944-truncate-sentence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/pravin4422/Daily_LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/pravin4422/Daily_LeetCode/tree/master/0507-perfect-number) |
 | [1289-day-of-the-week](https://github.com/pravin4422/Daily_LeetCode/tree/master/1289-day-of-the-week) |
 | [2383-add-two-integers](https://github.com/pravin4422/Daily_LeetCode/tree/master/2383-add-two-integers) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/pravin4422/Daily_LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
