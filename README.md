@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/pravin4422/Daily_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pravin4422/Daily_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0374-guess-number-higher-or-lower](https://github.com/pravin4422/Daily_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/pravin4422/Daily_LeetCode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/pravin4422/Daily_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/pravin4422/Daily_LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Matrix
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/pravin4422/Daily_LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/pravin4422/Daily_LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/pravin4422/Daily_LeetCode/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/pravin4422/Daily_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1289-day-of-the-week](https://github.com/pravin4422/Daily_LeetCode/tree/master/1289-day-of-the-week) |
 | [2383-add-two-integers](https://github.com/pravin4422/Daily_LeetCode/tree/master/2383-add-two-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/pravin4422/Daily_LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
