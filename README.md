@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/pravin4422/Daily_LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/pravin4422/Daily_LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/pravin4422/Daily_LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/pravin4422/Daily_LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/pravin4422/Daily_LeetCode/tree/master/0204-count-primes) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pravin4422/Daily_LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/pravin4422/Daily_LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/pravin4422/Daily_LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pravin4422/Daily_LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
