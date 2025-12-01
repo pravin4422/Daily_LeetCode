@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/pravin4422/Daily_LeetCode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0541-reverse-string-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/pravin4422/Daily_LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pravin4422/Daily_LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1944-truncate-sentence](https://github.com/pravin4422/Daily_LeetCode/tree/master/1944-truncate-sentence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2154-minimum-moves-to-convert-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/pravin4422/Daily_LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pravin4422/Daily_LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pravin4422/Daily_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
