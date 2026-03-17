@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pravin4422/Daily_LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pravin4422/Daily_LeetCode/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/pravin4422/Daily_LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1217-relative-sort-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/pravin4422/Daily_LeetCode/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/pravin4422/Daily_LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0541-reverse-string-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/pravin4422/Daily_LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pravin4422/Daily_LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pravin4422/Daily_LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/pravin4422/Daily_LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1217-relative-sort-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/pravin4422/Daily_LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pravin4422/Daily_LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/pravin4422/Daily_LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1297-maximum-number-of-balloons](https://github.com/pravin4422/Daily_LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pravin4422/Daily_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pravin4422/Daily_LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
@@ -241,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pravin4422/Daily_LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/pravin4422/Daily_LeetCode/tree/master/1683-invalid-tweets) |
 | [1934-confirmation-rate](https://github.com/pravin4422/Daily_LeetCode/tree/master/1934-confirmation-rate) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pravin4422/Daily_LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
