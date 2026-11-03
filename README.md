@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/pravin4422/Daily_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/pravin4422/Daily_LeetCode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/pravin4422/Daily_LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/pravin4422/Daily_LeetCode/tree/master/0067-add-binary) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/pravin4422/Daily_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pravin4422/Daily_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/pravin4422/Daily_LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/pravin4422/Daily_LeetCode/tree/master/0053-maximum-subarray) |
@@ -385,9 +387,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/pravin4422/Daily_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pravin4422/Daily_LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pravin4422/Daily_LeetCode/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/pravin4422/Daily_LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
