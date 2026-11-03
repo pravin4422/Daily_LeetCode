@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pravin4422/Daily_LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pravin4422/Daily_LeetCode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/pravin4422/Daily_LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/pravin4422/Daily_LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1217-relative-sort-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/pravin4422/Daily_LeetCode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/pravin4422/Daily_LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/pravin4422/Daily_LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/pravin4422/Daily_LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/pravin4422/Daily_LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/pravin4422/Daily_LeetCode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/pravin4422/Daily_LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/pravin4422/Daily_LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0447-number-of-boomerangs](https://github.com/pravin4422/Daily_LeetCode/tree/master/0447-number-of-boomerangs) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/pravin4422/Daily_LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/pravin4422/Daily_LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/pravin4422/Daily_LeetCode/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
