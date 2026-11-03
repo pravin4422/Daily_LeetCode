@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pravin4422/Daily_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/pravin4422/Daily_LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pravin4422/Daily_LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-day-of-the-week](https://github.com/pravin4422/Daily_LeetCode/tree/master/1289-day-of-the-week) |
 | [2383-add-two-integers](https://github.com/pravin4422/Daily_LeetCode/tree/master/2383-add-two-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/pravin4422/Daily_LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pravin4422/Daily_LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
