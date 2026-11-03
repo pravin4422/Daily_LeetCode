@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0065-valid-number](https://github.com/pravin4422/Daily_LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/pravin4422/Daily_LeetCode/tree/master/0067-add-binary) |
+| [0132-palindrome-partitioning-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/pravin4422/Daily_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/pravin4422/Daily_LeetCode/tree/master/0214-shortest-palindrome) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pravin4422/Daily_LeetCode/tree/master/0053-maximum-subarray) |
+| [0132-palindrome-partitioning-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/pravin4422/Daily_LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
