@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/pravin4422/Daily_LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0260-single-number-iii) |
+| [0327-count-of-range-sum](https://github.com/pravin4422/Daily_LeetCode/tree/master/0327-count-of-range-sum) |
 | [0447-number-of-boomerangs](https://github.com/pravin4422/Daily_LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0554-brick-wall](https://github.com/pravin4422/Daily_LeetCode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/pravin4422/Daily_LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/pravin4422/Daily_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/pravin4422/Daily_LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0327-count-of-range-sum](https://github.com/pravin4422/Daily_LeetCode/tree/master/0327-count-of-range-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/pravin4422/Daily_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/pravin4422/Daily_LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/pravin4422/Daily_LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/pravin4422/Daily_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/pravin4422/Daily_LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pravin4422/Daily_LeetCode/tree/master/0169-majority-element) |
+| [0327-count-of-range-sum](https://github.com/pravin4422/Daily_LeetCode/tree/master/0327-count-of-range-sum) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
@@ -348,4 +351,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/pravin4422/Daily_LeetCode/tree/master/0301-remove-invalid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/pravin4422/Daily_LeetCode/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/pravin4422/Daily_LeetCode/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/pravin4422/Daily_LeetCode/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/pravin4422/Daily_LeetCode/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/pravin4422/Daily_LeetCode/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
