@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pravin4422/Daily_LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/pravin4422/Daily_LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/pravin4422/Daily_LeetCode/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/pravin4422/Daily_LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/pravin4422/Daily_LeetCode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0344-reverse-string) |
@@ -298,16 +299,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/pravin4422/Daily_LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/pravin4422/Daily_LeetCode/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/pravin4422/Daily_LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/pravin4422/Daily_LeetCode/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/pravin4422/Daily_LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/pravin4422/Daily_LeetCode/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/pravin4422/Daily_LeetCode/tree/master/0187-repeated-dna-sequences) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/pravin4422/Daily_LeetCode/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/pravin4422/Daily_LeetCode/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/pravin4422/Daily_LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
