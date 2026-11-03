@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1217-relative-sort-array) |
 | [1287-distance-between-bus-stops](https://github.com/pravin4422/Daily_LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/pravin4422/Daily_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pravin4422/Daily_LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/pravin4422/Daily_LeetCode/tree/master/1944-truncate-sentence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/pravin4422/Daily_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/pravin4422/Daily_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/pravin4422/Daily_LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1217-relative-sort-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/pravin4422/Daily_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/pravin4422/Daily_LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/pravin4422/Daily_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pravin4422/Daily_LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pravin4422/Daily_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
