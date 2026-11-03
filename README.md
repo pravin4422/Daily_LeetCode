@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0260-single-number-iii) |
 | [0447-number-of-boomerangs](https://github.com/pravin4422/Daily_LeetCode/tree/master/0447-number-of-boomerangs) |
+| [0554-brick-wall](https://github.com/pravin4422/Daily_LeetCode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/pravin4422/Daily_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/pravin4422/Daily_LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/pravin4422/Daily_LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0447-number-of-boomerangs](https://github.com/pravin4422/Daily_LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0451-sort-characters-by-frequency](https://github.com/pravin4422/Daily_LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0554-brick-wall](https://github.com/pravin4422/Daily_LeetCode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/pravin4422/Daily_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1217-relative-sort-array](https://github.com/pravin4422/Daily_LeetCode/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/pravin4422/Daily_LeetCode/tree/master/1297-maximum-number-of-balloons) |
