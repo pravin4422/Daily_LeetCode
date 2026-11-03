@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pravin4422/Daily_LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/pravin4422/Daily_LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0290-word-pattern](https://github.com/pravin4422/Daily_LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/pravin4422/Daily_LeetCode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/pravin4422/Daily_LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/pravin4422/Daily_LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/pravin4422/Daily_LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/pravin4422/Daily_LeetCode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pravin4422/Daily_LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
