@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/pravin4422/Daily_LeetCode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/pravin4422/Daily_LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/pravin4422/Daily_LeetCode/tree/master/0067-add-binary) |
 | [0132-palindrome-partitioning-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0132-palindrome-partitioning-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pravin4422/Daily_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/pravin4422/Daily_LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/pravin4422/Daily_LeetCode/tree/master/0053-maximum-subarray) |
 | [0132-palindrome-partitioning-ii](https://github.com/pravin4422/Daily_LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/pravin4422/Daily_LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/pravin4422/Daily_LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/pravin4422/Daily_LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/pravin4422/Daily_LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/pravin4422/Daily_LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pravin4422/Daily_LeetCode/tree/master/0326-power-of-three) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/pravin4422/Daily_LeetCode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/pravin4422/Daily_LeetCode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/pravin4422/Daily_LeetCode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/pravin4422/Daily_LeetCode/tree/master/0605-can-place-flowers) |
